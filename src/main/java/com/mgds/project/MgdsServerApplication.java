@@ -8,6 +8,7 @@ public class MgdsServerApplication
 {
 	public static void main(String[] args)
 	{
+		//20240330 test
 		SpringApplication.run(MgdsServerApplication.class, args);
 	}
 }
